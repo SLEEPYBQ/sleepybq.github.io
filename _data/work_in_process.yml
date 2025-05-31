@@ -14,6 +14,19 @@ main:
     # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
     image: ./assets/img/preprint2.png
 
+  - title: "LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions"
+    authors: Jia Yongju, Ma Jiarui, Xiangxian Li*, <strong>Baiqiao Zhang</strong>, XianhuiCao, Juan Liu, Yulong Bian (*Corresponding author)
+    conference_short: Under Review
+    conference: Under review at a top NLP conference
+    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/preprint3.png
+  
+  - title: "MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenario"
+    authors: Xiangxian Li, Yawen Zheng*, <strong>Baiqiao Zhang</strong>, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang (*Corresponding author)
+    conference_short: Under Review
+    conference: Under review at a top Multimedia conference
+    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/preprint4.png
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
   #   authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
