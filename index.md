@@ -31,7 +31,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **[Feb. 2025]** I receive the honor of Outstanding Graduate of Shandong University (**6%**).
 - **[Jan. 2025]** Our paper about Reducing Motion Sickness in Passive Virtual Driving is accepted by IEEE Virtual Reality (IEEE VR).
 - **[Dec. 2024]** Our paper about [Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is accepted by IEEE Journal of Biomedical and Health Informatics (J-BHI).
-- **[Nov. 2024]** I am nominated for the Shandong University President's Award (*Research Track*).
+- **[Nov. 2024]** I was selected as a Finalist for Shandong University President's Award (*Research Track*) (25/42254) - This is Shandong University's highest honor.
 - **[Nov. 2024]** I get the 120th Anniversary Scholarship of Shandong University (120 students university-wide).
 - **[Oct. 2024]** I participate in ISMAR 2024, and make an oral presentation about our work.
 - **[Sep. 2024]** Our paper about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774) is accepted by UbiComp/IMWUT.
@@ -50,7 +50,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 ## Awards
 - **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
-- **[Nov. 2024]** Nominee of Shandong University President's Award (*Research Track*) (**75/42254**).
+- **[Nov. 2024]** Finalist for Shandong University President's Award (*Research Track*) (**25/42254**) - ***Highest Honor of SDU***.
 - **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
 - **[Aug. 2024]** CHCI 2024 Best Paper Honorable Mention Award.
 - **[Apr. 2024]** Second Prize in National College Student Software Innovation competition (**20th/1139**).
