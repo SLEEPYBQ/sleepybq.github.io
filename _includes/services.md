@@ -24,13 +24,22 @@
   <li><a href="https://dl.acm.org/journal/imwut"><autocolor>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</autocolor></a></li>
 </ul>
 
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369"><autocolor>IEEE Transactions on Affective Computing (TAFFC)</autocolor></a></li>
+</ul>
+
+
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.nature.com/npjscilearn/"><autocolor>npj Science of Learning</autocolor></a></li>
 </ul>
 
+
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Report</autocolor></a></li>
 </ul>
+
+
 
 <h4 style="margin:0 10px 0;">Community Service</h4>
 
