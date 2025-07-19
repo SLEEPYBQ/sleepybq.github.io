@@ -4,7 +4,7 @@ main:
     authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Chao Zhou, Xinyu Gai, Juan Liu, Xue Yang, Niqi Liu, Yong-Jin Liu*, Yulong Bian* (*Corresponding author)
     conference_short: Under Review
     conference: Under review at a top HCI conference
-    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    pdf: https://arxiv.org/abs/2507.04005
     image: ./assets/img/preprint1.png
 
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
