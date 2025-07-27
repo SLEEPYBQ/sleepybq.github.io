@@ -15,7 +15,7 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://uist.acm.org/2025/"><autocolor>The ACM Symposium on User Interface Software and Technology 2025</autocolor></a></li>
+  <li><a href="https://uist.acm.org/2025/"><autocolor>The ACM Symposium on User Interface Software and Technology (UIST) 2025</autocolor></a> - <strong>Special Recognition for Outstanding Review</strong></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
