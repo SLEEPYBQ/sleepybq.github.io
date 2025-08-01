@@ -5,7 +5,7 @@ main:
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia, 2025
     image: ./assets/img/preprint4.png
-    notes: Oral Presentation + Outstanding Paper
+    notes: Oral Presentation (Outstanding Paper)
 
   - title: "Multi-sensory Simulation of Wind Sensation (MSSWS): An Approach of Reducing Motion Sickness in Passive Virtual Driving"
     authors: Yuan yue, Chao Zhou, Tangjun Qu, <strong>Baiqiao Zhang</strong>, Juan Liu, Junhao Wang, Tianren Luo, Yulong Bian* (*Corresponding author)
