@@ -50,7 +50,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 {% include_relative _includes/publications.md %}
 
 ## Awards
-- **[Aug. 2025]** Outstanding Paper Award for ACM MM 2025
+- **[Aug. 2025]** ACM MM 2025 Outstanding Paper Award 
 - **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
 - **[Nov. 2024]** Finalist for Shandong University President's Award (*Research Track*) (**25/42254**) - ***Highest Honor of SDU***.
 - **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
