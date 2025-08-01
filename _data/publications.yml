@@ -4,7 +4,6 @@ main:
     authors: Xiangxian Li, Yawen Zheng*, <strong>Baiqiao Zhang</strong>, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang (*Corresponding author)
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia, 2025
-    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
     image: ./assets/img/preprint4.png
     notes: Oral Presentation + Outstanding Paper
 

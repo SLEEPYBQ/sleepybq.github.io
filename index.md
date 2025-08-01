@@ -25,7 +25,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **Pattern Recognition:** video representation learning, action recognition
 
 ## News
-
+- **[Aug. 2025]** Our paper about Intent Inference in Moving Target Selection is accepted by ACM MM (oral), and we get the outstanding paper award!
 - **[Jun. 2025]** Graduated! I earned my bachelor's degree through an exciting joint program between Shandong University (SDU) and the Australian National University (ANU).
 - **[Apr. 2025]** I participate in CHI 2025.
 - **[Mar. 2025]** Our paper about [Stereotyped Movement Recognition](https://ieeexplore.ieee.org/abstract/document/10778548) is selected as J-BHI featured article.
