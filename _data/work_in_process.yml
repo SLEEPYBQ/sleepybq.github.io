@@ -7,19 +7,7 @@ main:
     pdf: https://arxiv.org/abs/2507.04005
     image: ./assets/img/preprint1.png
 
-  - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
-    authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
-    conference_short: Under Review
-    conference: Under review at a top NLP conference
-    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/preprint2.png
 
-  - title: "LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions"
-    authors: Jia Yongju, Ma Jiarui, Xiangxian Li*, <strong>Baiqiao Zhang</strong>, XianhuiCao, Juan Liu, Yulong Bian (*Corresponding author)
-    conference_short: Under Review
-    conference: Under review at a top NLP conference
-    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
-    image: ./assets/img/preprint3.png
   
 
   # - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"

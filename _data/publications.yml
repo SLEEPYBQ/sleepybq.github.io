@@ -1,5 +1,19 @@
 main:
 
+  - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
+    authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
+    conference_short: EMNLP
+    conference: Findings of EMNLP
+    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/preprint2.png
+
+  - title: "LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions"
+    authors: Yongju Jia, Jiarui Ma, Xiangxian Li*, <strong>Baiqiao Zhang</strong>, XianhuiCao, Juan Liu, Yulong Bian (*Corresponding author)
+    conference_short: EMNLP
+    conference: Findings of EMNLP
+    # pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    image: ./assets/img/preprint3.png
+
   - title: "MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenario"
     authors: Xiangxian Li, Yawen Zheng*, <strong>Baiqiao Zhang</strong>, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang (*Corresponding author)
     conference_short: ACM MM
