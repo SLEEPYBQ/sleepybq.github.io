@@ -19,7 +19,7 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://2025.emnlp.org/"><autocolor>The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</autocolor></a></li>
+  <li><a href="https://2025.emnlp.org/"><autocolor>The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</autocolor></a></li> - <strong>Special Recognition for Great Review</strong></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -38,6 +38,9 @@
   <li><a href="https://www.nature.com/npjscilearn/"><autocolor>npj Science of Learning</autocolor></a></li>
 </ul>
 
+<ul style="margin:0 0 5px;">
+  <li><a href="https://link.springer.com/journal/12559"><autocolor>Cognitive Computation</autocolor></a></li>
+</ul>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Report</autocolor></a></li>
