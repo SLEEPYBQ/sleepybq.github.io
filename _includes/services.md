@@ -19,7 +19,7 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://2025.emnlp.org/"><autocolor>The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</autocolor></a></li> - <strong>Special Recognition for Great Review</strong></li>
+  <li><a href="https://2025.emnlp.org/"><autocolor>The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</autocolor></a> - <strong>Special Recognition for Great Review</strong></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
@@ -31,6 +31,12 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5165369"><autocolor>IEEE Transactions on Affective Computing (TAFFC)</autocolor></a></li>
+</ul>
+
+
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037"><autocolor>IEEE Transactions on Human-Machine Systems</autocolor></a></li>
 </ul>
 
 
