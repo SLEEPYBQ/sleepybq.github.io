@@ -1,7 +1,7 @@
 main:
 
-  - title: "Exploring a Gamified Personality Assessment Method through Interaction with Multi-Personality LLM Agents"
-    authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Chao Zhou, Xinyu Gai, Juan Liu, Xue Yang, Niqi Liu, Yong-Jin Liu*, Yulong Bian* (*Corresponding author)
+  - title: "Exploring a Gamified Personality Assessment Method through Interaction with LLM Agents Embodying Different Personalities"
+    authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Chao Zhou, Xinyu Gai, Juan Liu, Xue Yang, Xiaojuan Ma, Yong-Jin Liu*, Yulong Bian* (*Corresponding author)
     conference_short: Under Review
     conference: Under review at a top HCI conference
     pdf: https://arxiv.org/abs/2507.04005
