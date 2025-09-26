@@ -4,7 +4,7 @@ main:
     authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing, 2025.
-    image: ./assets/img/preprint2.png
+    image: ./assets/img/EMNLP_final_teaser.png
     notes: Findings
 
   - title: "LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions"
