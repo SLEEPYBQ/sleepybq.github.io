@@ -14,6 +14,7 @@ main:
     pdf: https://arxiv.org/abs/2508.15688
     image: ./assets/img/preprint3.png
     notes: Findings
+    code: https://github.com/Sha843/MDPR
 
   - title: "MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenario"
     authors: Xiangxian Li, Yawen Zheng*, <strong>Baiqiao Zhang</strong>, Yijia Ma, XianhuiCao, Juan Liu, Yulong Bian, Jin Huang, Chenglei Yang (*Corresponding author)
@@ -21,6 +22,7 @@ main:
     conference: ACM International Conference on Multimedia, 2025
     pdf: https://arxiv.org/abs/2508.12992
     image: ./assets/img/preprint4.png
+    code: https://github.com/yibuxulong/MAGNeT
     notes: Oral Presentation (Outstanding Paper)
 
   - title: "Multi-sensory Simulation of Wind Sensation (MSSWS): An Approach of Reducing Motion Sickness in Passive Virtual Driving"
