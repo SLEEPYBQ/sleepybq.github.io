@@ -12,6 +12,7 @@ main:
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing, 2025.
     pdf: https://arxiv.org/abs/2508.15688
+    bibtex: ./assets/bib/EMNLP2.txt
     image: ./assets/img/preprint3.png
     notes: Findings
     code: https://github.com/Sha843/MDPR
@@ -21,6 +22,7 @@ main:
     conference_short: ACM MM
     conference: ACM International Conference on Multimedia, 2025
     pdf: https://arxiv.org/abs/2508.12992
+    bibtex: ./assets/bib/MM.txt
     image: ./assets/img/preprint4.png
     code: https://github.com/yibuxulong/MAGNeT
     notes: Oral Presentation (Outstanding Paper)
@@ -29,7 +31,8 @@ main:
     authors: Yuan yue, Chao Zhou, Tangjun Qu, <strong>Baiqiao Zhang</strong>, Juan Liu, Junhao Wang, Tianren Luo, Yulong Bian* (*Corresponding author)
     conference_short: IEEE VR
     conference: IEEE Virtual Reality conference, 2025.
-    pdf: ./assets/files/vr25a-sub1613-cam-i6.pdf
+    pdf: https://ieeexplore.ieee.org/abstract/document/10972876
+    bibtex: ./assets/bib/VRs.txt
     image: ./assets/img/VR.png
 
   - title: "Enhancing Recognition of Stereotyped Movements in ASD Children through Action Pattern Mining and Multi-Channel Fusion"

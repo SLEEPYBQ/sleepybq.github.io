@@ -1,0 +1,8 @@
+@inproceedings{yue2025approach,
+  title={An Approach of Reducing Motion Sickness in Passive Virtual Driving through Multi-sensory Simulation of Wind Sensation},
+  author={Yue, Yuan and Zhou, Chao and Qu, Tangjun and Zhang, Baiqiao and Liu, Juan and Wang, Junhao and Luo, Tianren and Bian, Yulong},
+  booktitle={2025 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW)},
+  pages={1312--1313},
+  year={2025},
+  organization={IEEE}
+}

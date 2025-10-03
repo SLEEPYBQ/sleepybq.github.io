@@ -1,0 +1,6 @@
+@article{jia2025llm,
+  title={LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions},
+  author={Jia, Yongju and Ma, Jiarui and Li, Xiangxian and Zhang, Baiqiao and Cao, Xianhui and Liu, Juan and Bian, Yulong},
+  journal={arXiv preprint arXiv:2508.15688},
+  year={2025}
+}

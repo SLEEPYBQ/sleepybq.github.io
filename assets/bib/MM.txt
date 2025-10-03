@@ -1,0 +1,6 @@
+@article{li2025magnet,
+  title={MAGNeT: Multimodal Adaptive Gaussian Networks for Intent Inference in Moving Target Selection across Complex Scenarios},
+  author={Li, Xiangxian and Zheng, Yawen and Zhang, Baiqiao and Ma, Yijia and XianhuiCao, XianhuiCao and Liu, Juan and Bian, Yulong and Huang, Jin and Yang, Chenglei},
+  journal={arXiv preprint arXiv:2508.12992},
+  year={2025}
+}
