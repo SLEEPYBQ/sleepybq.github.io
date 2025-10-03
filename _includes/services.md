@@ -2,6 +2,11 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
+
+<ul style="margin:0 0 5px;">
+  <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2026</autocolor></a></li>
+</ul>
+
 <ul style="margin:0 0 5px;">
   <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2025</autocolor></a></li>
 </ul>
@@ -25,7 +30,7 @@
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://dl.acm.org/journal/imwut"><autocolor>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</autocolor></a></li>
+  <li><a href="https://dl.acm.org/journal/imwut"><autocolor>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</autocolor></a></li>
 </ul>
 
 
@@ -36,7 +41,7 @@
 
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037"><autocolor>IEEE Transactions on Human-Machine Systems</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037"><autocolor>IEEE Transactions on Human-Machine Systems (THMS)</autocolor></a></li>
 </ul>
 
 
