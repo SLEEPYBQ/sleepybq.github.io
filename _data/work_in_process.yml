@@ -5,6 +5,7 @@ main:
     conference_short: Under Review
     conference: Under review at a top HCI conference
     pdf: https://arxiv.org/abs/2507.04005
+    code: https://github.com/SLEEPYBQ/Multi-PR-GPA
     image: ./assets/img/preprint1.png
 
 
