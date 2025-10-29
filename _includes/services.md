@@ -5,7 +5,7 @@
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2026</autocolor></a></li>
-</ul>
+</ul> - <strong>Special Recognition for Outstanding Review</strong></li>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2025</autocolor></a></li>
