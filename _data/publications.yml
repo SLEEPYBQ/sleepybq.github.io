@@ -14,7 +14,7 @@ main:
     authors: Yongju Jia, Jiarui Ma, Xiangxian Li*, <strong>Baiqiao Zhang</strong>, XianhuiCao, Juan Liu, Yulong Bian (*Corresponding author)
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing, 2025.
-    pdf: https://aclanthology.org/2025.findings-emnlp.799/
+    pdf: https://aclanthology.org/2025.findings-emnlp.799.pdf
     bibtex: ./assets/bib/EMNLP2.txt
     image: ./assets/img/preprint3.png
     notes: Findings
