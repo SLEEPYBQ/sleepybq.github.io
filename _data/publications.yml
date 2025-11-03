@@ -4,6 +4,9 @@ main:
     authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing, 2025.
+    pdf: https://aclanthology.org/2025.findings-emnlp.287.pdf
+    bibtex: ./assets/bib/EMNLP1.txt
+    code: https://github.com/SLEEPYBQ/Personality-1260
     image: ./assets/img/EMNLP_final_teaser.png
     notes: Also Presented in 4th HCI+NLP Workshop
 

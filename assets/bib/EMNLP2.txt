@@ -1,6 +1,23 @@
-@article{jia2025llm,
-  title={LLM-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions},
-  author={Jia, Yongju and Ma, Jiarui and Li, Xiangxian and Zhang, Baiqiao and Cao, Xianhui and Liu, Juan and Bian, Yulong},
-  journal={arXiv preprint arXiv:2508.15688},
-  year={2025}
+@inproceedings{jia-etal-2025-llm,
+    title = "{LLM}-empowered Dynamic Prompt Routing for Vision-Language Models Tuning under Long-Tailed Distributions",
+    author = "Jia, Yongju  and
+      Ma, Jiarui  and
+      Li, Xiangxian  and
+      Zhang, Baiqiao  and
+      Cao, Xianhui  and
+      Liu, Juan  and
+      Bian, Yulong",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.799/",
+    pages = "14809--14822",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Pre-trained vision-language models (VLMs), such as CLIP, have demonstrated impressive capability in visual tasks, but their fine-tuning often suffers from bias in class-imbalanced scenes. Recent works have introduced large language models (LLMs) to enhance VLM fine-tuning withsupplementaryy semantic information. However, they often overlook inherent class imbalance in VLMs' pre-training, which may lead to bias accumulation in downstream tasks. To address this problem, this paper proposes a Multi-dimensional Dynamic Prompt Routing (MDPR) framework. MDPR constructs a comprehensive knowledge base for classes, spanning multiple visual-semantic dimensions. During fine-tuning, the dynamic routing mechanism aligns global visual classes, retrieves optimal prompts, and balances fine-grained semantics, yielding stable predictions through logits fusion. Extensive experiments on long-tailed benchmarks, including CIFAR-LT, ImageNet-LT, and Places-LT, demonstrate that MDPR achieves comparable results with current SOTA methods. Ablation studies further confirm the effectiveness of our semantic library for tail classes and show that our dynamic routing operates with a slight increase in computational overhead, making MDPR a flexible and efficient enhancement for VLM fine-tuning under data imbalance. The codes are available in https://github.com/Sha843/MDPR."
 }
