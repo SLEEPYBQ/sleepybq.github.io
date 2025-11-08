@@ -25,6 +25,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **Pattern Recognition:** video representation learning, action recognition
 
 ## News
+- **[Nov. 2025]**  I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
 - **[Oct. 2025]** I participate in Ubicomp 2025 and give an oral presentation of our work about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774).
 - **[Aug. 2025]** Our paper about LLM-based Personality Assessment is accepted as EMNLP Findings.
 - **[Aug. 2025]** Our paper about Prompt Routing for VLMs Tuning is accepted as EMNLP Findings.
