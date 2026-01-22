@@ -4,7 +4,7 @@ main:
     authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Chao Zhou, Xinyu Gai, Juan Liu, Xue Yang, Xiaojuan Ma, Yong-Jin Liu*, Yulong Bian* (*Corresponding author)
     conference_short: Under Review
     conference: Submitted to IEEE Transactions on Affective Computing
-    pdf: https://arxiv.org/abs/2507.04005
+    pdf: ./assets/files/TAFFC_Multi_PR_GPA__SI___final.pdf
     code: https://github.com/SLEEPYBQ/Multi-PR-GPA
     image: ./assets/img/preprint1.png
 
