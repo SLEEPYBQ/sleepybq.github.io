@@ -3,7 +3,7 @@
 <h4 style="margin:0 10px 0;">Teaching Assistant (HKUST)</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>COMP 4221: Introduction to Natural Language Processing, 2026 Spring</autocolor></li>
+  <li><autocolor>COMP 2211: Introduction to Artificial Intelligence, 2026 Spring</autocolor></li>
 </ul>
 
 
