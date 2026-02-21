@@ -4,7 +4,7 @@
 
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2026</autocolor></a> - <strong>Special Recognition for Outstanding Review</strong> </li>
+  <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2026</autocolor></a> - <strong>Special Recognition for Outstanding Review*4</strong> </li>
 </ul> 
 
 <ul style="margin:0 0 5px;">
