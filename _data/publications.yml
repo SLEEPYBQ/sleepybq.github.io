@@ -41,7 +41,7 @@ main:
   - title: "Enhancing Recognition of Stereotyped Movements in ASD Children through Action Pattern Mining and Multi-Channel Fusion"
     authors: <strong>Baiqiao Zhang</strong>, Yanran Yuan, Wei Qin, Xiangxian Li, Weiying Liu, Wenxin Yao, Yulong Bian, Juan Liu* (*Corresponding author)
     conference_short: JBHI
-    conference: IEEE Journal of Biomedical and Health Informatics, 2024.
+    conference: IEEE Journal of Biomedical and Health Informatics (IEEE Transactions on Information Technology in Biomedicine), 2024.
     pdf: https://ieeexplore.ieee.org/document/10778548
     bibtex: ./assets/bib/movement.txt
     code: https://github.com/SLEEPYBQ/ACSA653-Dataset
