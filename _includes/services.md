@@ -2,21 +2,16 @@
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
+<ul style="margin:0 0 5px;">
+  <li><a href="https://uist.acm.org/2026/"><autocolor>The ACM Symposium on User Interface Software and Technology (UIST) 2026</autocolor></a></li>
+</ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2026</autocolor></a> - <strong>Special Recognition for Outstanding Review*4</strong> </li>
+  <li><a href="https://chi2026.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2026</autocolor></a> - <strong>Special Recognition for Outstanding Review*4</strong> </li>
 </ul> 
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2025</autocolor></a></li>
-</ul>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2025 - Late Breaking Work</autocolor></a></li>
-</ul>
-
-<ul style="margin:0 0 5px;">
-  <li><a href="https://chi2025.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2025 - Ninja Reviewer</autocolor></a></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
@@ -39,7 +34,6 @@
 </ul>
 
 
-
 <ul style="margin:0 0 5px;">
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037"><autocolor>IEEE Transactions on Human-Machine Systems (THMS)</autocolor></a></li>
 </ul>
@@ -53,9 +47,9 @@
   <li><a href="https://link.springer.com/journal/12559"><autocolor>Cognitive Computation</autocolor></a></li>
 </ul>
 
-<ul style="margin:0 0 5px;">
+<!-- <ul style="margin:0 0 5px;">
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Report</autocolor></a></li>
-</ul>
+</ul> -->
 
 
 
