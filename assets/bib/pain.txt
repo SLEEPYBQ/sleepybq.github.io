@@ -1,0 +1,7 @@
+@inproceedings{liu2026tactile,
+  title={E-Tactile Flow: Exploring A Novel Path of Pain Relief through Interactive Electrotactile Stimulation},
+  author={Liu, Shilong and Lin, Yongjiu and Lin, Hongnan and Ma, Yihan and Zhou, Chao and Hu, Yan and Zhang, Baiqiao and Li, Xiangxian and Han, Teng and Bian, Yulong},
+  booktitle={Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human Factors in Computing Systems},
+  pages={1--5},
+  year={2026}
+}

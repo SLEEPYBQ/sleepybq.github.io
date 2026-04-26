@@ -9,7 +9,9 @@ I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong
 Previously, I was a research assistant at AI&XR Lab, [Engineering Research Center of Digital Media Technology](https://ercdm.sdu.edu.cn/), Ministry of Education, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). I also worked as a research assistant at the Institute of HCI and Media Integration, Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). I received my bachelor’s degree in Computer Science and Technology in 2025 through a joint program between Shandong University (SDU) and the Australian National University (ANU).
 
 
-My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data.
+My research currently focuses on **Agent Memory**, exploring how Agents build and use long-term memory to support more coherent and personalized behavior. I am also broadly interested in Human-centered AI and Pattern Recognition, with prior work on understanding humans through human-generated data.
+
+<!-- My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data. -->
 
 <!-- I am currently an undergraduate at AI&XR Lab, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). And I am also a research assistant at Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm).
 
@@ -17,15 +19,16 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 
 
-## Research Interests
+<!-- ## Research Interests
 
 - **Human-computer Interaction:** user experience, virtual reality, ubiquitous computing
 - **Human-centered AI:** EEG-based affective computing, flow experience computing
 - **NLP:** sentiment analysis, emotion recognition, prompt engineering
-- **Pattern Recognition:** video representation learning, action recognition
+- **Pattern Recognition:** video representation learning, action recognition -->
 
 ## News
-- **[Nov. 2025]**  I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
+- **[Apr. 2026]** I participate in CHI 2026 and present our works about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723)
+- **[Nov. 2025]** I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
 - **[Oct. 2025]** I participate in Ubicomp 2025 and give an oral presentation of our work about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774).
 - **[Aug. 2025]** Our paper about LLM-based Personality Assessment is accepted as EMNLP Findings.
 - **[Aug. 2025]** Our paper about Prompt Routing for VLMs Tuning is accepted as EMNLP Findings.

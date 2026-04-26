@@ -1,5 +1,14 @@
 main:
 
+  - title: "E-Tactile Flow: Exploring A Novel Path of Pain Relief through Interactive Electrotactile Stimulation"
+    authors: Shilong Liu, Yongjiu Lin, Hongnan Lin, Yihan Ma, Chao Zhou, Yan Hu, <strong>Baiqiao Zhang</strong>, Xiangxian Li, Teng Han*, Yulong Bian* (*Corresponding author)
+    conference_short: CHI
+    conference: The ACM CHI conference on Human Factors in Computing Systems 
+    pdf: https://dl.acm.org/doi/full/10.1145/3772363.3798723
+    bibtex: ./assets/bib/pain.txt
+    image: ./assets/img/pain.png
+    notes: Extend Abstract
+  
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
     authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
     conference_short: EMNLP
