@@ -7,7 +7,7 @@ main:
     pdf: https://dl.acm.org/doi/full/10.1145/3772363.3798723
     bibtex: ./assets/bib/pain.txt
     image: ./assets/img/pain.png
-    notes: Extend Abstract
+    notes: Extended Abstracts
   
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
     authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
