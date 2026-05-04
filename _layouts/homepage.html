@@ -120,14 +120,16 @@
       ga('send', 'pageview');
     </script>
     {% endif %} -->
+    {% if site.google_analytics %}
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZY2V628H3G"></script>
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'G-ZY2V628H3G');
+      gtag('config', '{{ site.google_analytics }}');
     </script>
+    {% endif %}
 
   </body>
 </html>
