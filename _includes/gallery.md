@@ -203,9 +203,6 @@
       // 创建并初始化 PhotoSwipe
       gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
       
-      // 创建并初始化 PhotoSwipe
-      gallery = new PhotoSwipe(pswpElement, PhotoSwipeUI_Default, items, options);
-      
       // 动态更新图片大小
       gallery.listen('gettingData', function(index, item) {
         var img = new Image();
