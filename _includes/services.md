@@ -44,8 +44,9 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://link.springer.com/journal/12559"><autocolor>Cognitive Computation</autocolor></a></li>
+  <li><a href="https://www.nature.com/npjdigitalmed/"><autocolor>npj Digital Medicine</autocolor></a></li>
 </ul>
+
 
 <!-- <ul style="margin:0 0 5px;">
   <li><a href="https://www.nature.com/srep/"><autocolor>Scientific Report</autocolor></a></li>
