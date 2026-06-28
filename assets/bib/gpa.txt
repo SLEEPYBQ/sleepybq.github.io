@@ -1,0 +1,6 @@
+@article{zhang2025exploring,
+  title={Exploring a Gamified Personality Assessment Method through Interaction with LLM Agents Embodying Different Personalities},
+  author={Zhang, Baiqiao and Li, Xiangxian and Zhou, Chao and Gai, Xinyu and Liu, Juan and Yang, Xue and Li, Nianlong and Ma, Shuai and Ma, Xiaojuan and Liu, Yong-jin and others},
+  journal={arXiv preprint arXiv:2507.04005},
+  year={2025}
+}

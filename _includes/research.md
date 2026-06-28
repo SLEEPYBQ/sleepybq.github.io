@@ -3,17 +3,22 @@
 <div class="research-grid">
   <div class="research-card">
     <i class="ph ph-brain rc-icon"></i>
-    <h3>Agent Memory</h3>
-    <p>Long-term memory mechanisms that help agents act coherently across time, context, and personal interaction history.</p>
+    <h3>Memory</h3>
+    <p>Developer agency over what AI coding agents remember, keeping their memory aligned with the developer's intent.</p>
   </div>
   <div class="research-card">
-    <i class="ph ph-users-three rc-icon"></i>
-    <h3>Human-centered AI</h3>
-    <p>AI systems that model human traits, states, and needs from dialogue, behavior, physiological signals, and multimodal data.</p>
+    <i class="ph ph-gauge rc-icon"></i>
+    <h3>Confidence</h3>
+    <p>Step-level confidence calibration in agentic workflows, so an agent's certainty tracks whether it is actually right.</p>
   </div>
   <div class="research-card">
-    <i class="ph ph-scan rc-icon"></i>
-    <h3>Pattern Recognition</h3>
-    <p>Data-driven methods for recognizing complex human actions, affective states, and intent in real-world interactive scenarios.</p>
+    <i class="ph ph-eye rc-icon"></i>
+    <h3>Attention</h3>
+    <p>Modeling where people attend during a task from interaction and physiological signals, for timely support.</p>
+  </div>
+  <div class="research-card">
+    <i class="ph ph-fingerprint rc-icon"></i>
+    <h3>Personality</h3>
+    <p>Reading personality and traits from human-agent dialogue to adapt how AI communicates.</p>
   </div>
 </div>

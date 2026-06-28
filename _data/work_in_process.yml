@@ -6,6 +6,7 @@ main:
     conference: Preprint
     pdf: https://arxiv.org/pdf/2507.04005
     code: https://github.com/SLEEPYBQ/Multi-PR-GPA
+    bibtex: ./assets/bib/gpa.txt
     image: ./assets/img/preprint1.png
 
 

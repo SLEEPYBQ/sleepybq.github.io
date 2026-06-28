@@ -131,7 +131,7 @@ body {
   display: flex;
   align-items: center;
   gap: 40px;
-  padding: 56px 0 44px;
+  padding: 52px 0 22px;
 }
 
 .hero-text { flex: 1; min-width: 0; }
@@ -159,7 +159,6 @@ body {
   line-height: 1.65;
   color: var(--ink-soft);
   margin: 16px 0 0;
-  max-width: 46ch;
 }
 
 .hero-media {
@@ -177,14 +176,14 @@ body {
 }
 
 .hero-email {
-  font-family: var(--mono);
-  font-size: 11.5px;
-  color: var(--faint);
+  font-family: var(--sans);
+  font-size: 12.5px;
+  color: var(--accent);
   margin: 12px 0 0;
 }
 
-.hero-email a { color: var(--faint); }
-.hero-email a:hover { color: var(--accent); }
+.hero-email a { color: var(--accent); }
+.hero-email a:hover { color: var(--accent-deep); }
 
 /* --- section headings (markdown h2): heading + trailing rule ------------ */
 
@@ -199,6 +198,10 @@ main h2 {
   align-items: center;
   white-space: nowrap;
   scroll-margin-top: calc(var(--nav-h) + 16px);
+}
+
+.hero + h2 {
+  margin-top: 1.2rem;
 }
 
 main h2 i.ph {
@@ -242,7 +245,7 @@ a:hover {
   text-decoration-thickness: 1px;
 }
 
-strong { font-weight: 600; color: var(--ink); }
+strong { font-weight: 600; color: var(--accent); }
 em { font-style: italic; }
 autocolor { color: inherit; }
 
@@ -297,14 +300,9 @@ main h2#news + ul::-webkit-scrollbar-thumb {
 }
 main h2#news + ul::-webkit-scrollbar-thumb:hover { background: var(--accent); }
 
-/* News / Awards date markers */
-main h2#news + ul > li > strong:first-child,
-main h2#awards + ul > li > strong:first-child {
-  font-family: var(--mono);
-  font-size: 0.78em;
-  font-weight: 500;
-  color: var(--accent);
-}
+/* News / Awards date markers: same font as the text, set apart by colour
+   only. The general `strong` rule already gives Fira Sans 600 + dusk blue
+   (brackets included), so no override is needed here. */
 
 blockquote {
   margin: 1.4rem 0;
@@ -343,7 +341,7 @@ th {
 
 .research-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 16px;
   margin: 0 0 0.5rem;
 }
@@ -418,16 +416,16 @@ th {
 
   .hero {
     flex-direction: column-reverse;
-    align-items: flex-start;
-    gap: 22px;
-    padding: 36px 0 32px;
+    align-items: stretch;
+    gap: 20px;
+    padding: 36px 0 30px;
   }
 
   .hero .name { font-size: 34px; }
   .hero-bio { max-width: none; }
 
-  .hero-media { text-align: left; }
-  .hero-media .avatar { width: 120px; height: 120px; }
+  .hero-media { text-align: center; }
+  .hero-media .avatar { width: 124px; height: 124px; }
 
   main h2 { font-size: 19px; }
 }

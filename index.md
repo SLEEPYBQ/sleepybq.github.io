@@ -9,7 +9,7 @@ I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong
 Previously, I was a research assistant at AI&XR Lab, [Engineering Research Center of Digital Media Technology](https://ercdm.sdu.edu.cn/), Ministry of Education, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). I also worked as a research assistant at the Institute of HCI and Media Integration, Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). I received my bachelor’s degree in Computer Science and Technology in 2025 through a joint program between Shandong University (SDU) and the Australian National University (ANU).
 
 
-My research currently focuses on **Agent Memory**, exploring how Agents build and use long-term memory to support more coherent and personalized behavior. I am also broadly interested in Human-centered AI and Pattern Recognition, with prior work on understanding humans through human-generated data.
+My research focuses on **Human-AI Alignment**: keeping people and AI in sync as they work together. I model the states behind this alignment, including memory, confidence, attention, and personality, and build interactions that make collaboration trustworthy and keep the two aligned in both directions. My earlier work modeled human states such as flow, attention, personality, and intent from interaction (Language, Video, Action) and physiological signals.
 
 <!-- My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data. -->
 
@@ -26,7 +26,9 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **NLP:** sentiment analysis, emotion recognition, prompt engineering
 - **Pattern Recognition:** video representation learning, action recognition -->
 
+{% comment %} Research Directions hidden for now; re-enable when ready.
 {% include_relative _includes/research.md %}
+{% endcomment %}
 
 <h2 id="news"><i class="ph ph-newspaper"></i>News</h2>
 
