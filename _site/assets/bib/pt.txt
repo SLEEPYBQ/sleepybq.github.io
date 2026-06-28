@@ -1,0 +1,8 @@
+@inproceedings{qu2024becoming,
+  title={Becoming An Animal? Exploring Proteus Effect Based on Human-avatar Hand Gesture Consistency},
+  author={Qu, Tangjun and Wang, Junjie and Lin, Yongjiu and Liu, Juan and Zhou, Chao and Zhang, Baiqiao and Jiang, Kaiyuan and Bian, Yulong},
+  booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)},
+  pages={777--786},
+  year={2024},
+  organization={IEEE}
+}

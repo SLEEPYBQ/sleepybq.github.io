@@ -1,0 +1,41 @@
+/* 照片墙容器样式 */
+.photo-gallery-container {
+  margin-bottom: 30px;
+}
+
+/* Justified Gallery 自定义样式 */
+#justified-gallery {
+  margin-bottom: 30px;
+}
+
+#justified-gallery img {
+  transition: all 0.3s ease;
+}
+
+#justified-gallery a:hover img {
+  opacity: 0.9;
+  transform: scale(1.03);
+}
+
+/* PhotoSwipe 自定义样式 */
+.pswp__bg {
+  background-color: rgba(0, 0, 0, 0.85);
+}
+
+.pswp__caption__center {
+  text-align: center;
+  max-width: 80%;
+  margin: 0 auto;
+  font-size: 16px;
+  padding: 10px;
+  line-height: 20px;
+  color: #eee;
+}
+
+/* 响应式调整 */
+@media (max-width: 767px) {
+  #justified-gallery {
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+}

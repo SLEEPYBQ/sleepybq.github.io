@@ -1,0 +1,10 @@
+@article{zhang2024we,
+  title={Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals},
+  author={Zhang, Baiqiao and Li, Xiangxian and Zhou, Yunfan and Liu, Juan and Zhou, Chao and Liu, Weiying and Bian, Yulong},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={8},
+  number={4},
+  pages={1--42},
+  year={2024},
+  publisher={ACM New York, NY, USA}
+}

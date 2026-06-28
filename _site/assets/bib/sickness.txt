@@ -1,0 +1,8 @@
+@inproceedings{zhou2024positive,
+  title={Positive or Negative? The Effect of Self-motion Speed on Flow Experience is Moderated by Susceptibility to VR Sickness},
+  author={Zhou, Chao and Liu, Juan and Geng, Wenxiu and Zhang, Baiqiao and Jiang, Kaiyuan and Bian, Yulong},
+  booktitle={2024 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct)},
+  pages={575--577},
+  year={2024},
+  organization={IEEE Computer Society}
+}

@@ -1,0 +1,8 @@
+# Jekyll caches (keep _site tracked: a downstream script depends on it)
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Tooling / OS
+.claude/
+.DS_Store

@@ -2,6 +2,8 @@
 title: Baiqiao Zhang
 position: PhD Student
 affiliation: HKUST
+affiliation_link: https://cse.hkust.edu.hk/
+tagline: I study how agents build and use long-term memory, and more broadly human-centered AI and pattern recognition.
 email: baiqiao.zhang@connect.ust.hk
 
 # Search Engine Optimization (SEO)
@@ -20,9 +22,9 @@ github_link: https://github.com/SLEEPYBQ
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/bq3.png
-favicon: ./assets/img/icon.png
-favicon_dark: ./assets/img/icon.png
+avatar: ./assets/img/baiqiaozhang.jpg
+favicon: ./assets/img/bq3.png
+favicon_dark: ./assets/img/bq3.png
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
 enable_footnote: true

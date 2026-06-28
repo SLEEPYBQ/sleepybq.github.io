@@ -1,0 +1,10 @@
+@ARTICLE{10778548,
+  author={Zhang, Baiqiao and Yuan, Yanran and Qin, Wei and Li, Xiangxian and Liu, Weiying and Yao, Wenxin and Bian, Yulong and Liu, Juan},
+  journal={IEEE Journal of Biomedical and Health Informatics}, 
+  title={Enhancing Recognition of Stereotyped Movements in ASD Children Through Action Pattern Mining and Multi-Channel Fusion}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-15},
+  keywords={Videos;Skeleton;Feature extraction;Visualization;Data mining;Pattern recognition;Accuracy;Optical flow;Bioinformatics;Autism;Autism spectrum disorder;Human activity recognition;Multi-channel fusion;Stereotyped movement},
+  doi={10.1109/JBHI.2024.3511601}}

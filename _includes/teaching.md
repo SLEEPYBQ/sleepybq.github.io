@@ -1,13 +1,13 @@
-## Teaching
+<h2 id="teaching"><i class="ph ph-chalkboard-teacher"></i>Teaching</h2>
 
-<h4 style="margin:0 10px 0;">Teaching Assistant (HKUST)</h4>
+<h4>Teaching Assistant (HKUST)</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>COMP 2211: Introduction to Artificial Intelligence, 2026 Spring</autocolor></li>
 </ul>
 
 
-<h4 style="margin:0 10px 0;">Teaching Assistant (SDU)</h4>
+<h4>Teaching Assistant (SDU)</h4>
 
 <ul style="margin:0 0 5px;">
   <li><autocolor>Three-dimensional Contents Design and Creation, 2023 Spring</autocolor></li>

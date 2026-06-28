@@ -1,0 +1,23 @@
+@inproceedings{zhang-etal-2025-rethinking-personality,
+    title = "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More",
+    author = "Zhang, Baiqiao  and
+      Liao, Zhifeng  and
+      Li, Xiangxian  and
+      Zhou, Chao  and
+      Liu, Juan  and
+      Ma, Xiaojuan  and
+      Bian, Yulong",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2025",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.findings-emnlp.287/",
+    pages = "5357--5380",
+    ISBN = "979-8-89176-335-7",
+    abstract = "Personality assessment is essential for developing user-centered systems, playing a critical role across domains including hiring, education, and personalized system design. With the integration of conversational AI systems into daily life, automatically assessing human personality through natural language interaction has gradually gained more attention. However, existing personality assessment datasets based on natural language generally lack consideration of interactivity. Therefore, we propose Personality-1260, a Chinese dataset containing 1260 interaction rounds between humans and agents with different personalities, aiming to support research on personality assessment. Based on this dataset, we designed experiments to explore the effects of different interaction rounds and agent personalities on personality assessment. Results show that fewer interaction rounds perform better in most cases, and agents with different personalities stimulate different expressions of users' personalities. These findings provide guidance for the design of interactive personality assessment systems."
+}

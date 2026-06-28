@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-## About Me
+<h2 id="about-me"><i class="ph ph-user"></i>About Me</h2>
 
 I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Professor [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). 
 
@@ -26,7 +26,10 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **NLP:** sentiment analysis, emotion recognition, prompt engineering
 - **Pattern Recognition:** video representation learning, action recognition -->
 
-## News
+{% include_relative _includes/research.md %}
+
+<h2 id="news"><i class="ph ph-newspaper"></i>News</h2>
+
 - **[Apr. 2026]** I participate in CHI 2026 and present our works about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723)
 - **[Nov. 2025]** I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
 - **[Oct. 2025]** I participate in Ubicomp 2025 and give an oral presentation of our work about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774).
@@ -56,7 +59,8 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 {% include_relative _includes/publications.md %}
 
-## Awards
+<h2 id="awards"><i class="ph ph-trophy"></i>Awards</h2>
+
 - **[Aug. 2025]** ACM MM 2025 Outstanding Paper Award 
 - **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
 - **[Nov. 2024]** Finalist for Shandong University President's Award (*Research Track*) (**25/42254**) - ***Highest Honor of SDU***.
@@ -71,7 +75,8 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 {% include_relative _includes/teaching.md %}
 
-## Misc.
+<h2 id="misc"><i class="ph ph-camera"></i>Misc.</h2>
+
 I enjoy photography, coffee, and badminton. I also have a cat named Benben (笨笨). Feel free to reach out if you’d like to go shooting or play badminton together!
 
 {% include_relative _includes/gallery.md %}

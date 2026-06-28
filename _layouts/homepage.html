@@ -1,125 +1,78 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
-
-    <meta name="google-site-verification" content="bzlBNvF77EU5m6s1-yv2ZdYFwqf1kc5qk0IIpuB6F1s" />
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ site.title }} | {{ site.affiliation }}</title>
+
+    <meta name="google-site-verification" content="bzlBNvF77EU5m6s1-yv2ZdYFwqf1kc5qk0IIpuB6F1s" />
     <meta name="description" content="{{ site.description }}">
-    {% if site.keywords %}
-    <meta name="keywords" content="{{ site.keywords }}">
-    {% endif %}
-    {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
-    {% endif %}
-    <link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="{{ site.favicon }}" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
+    {% if site.keywords %}<meta name="keywords" content="{{ site.keywords }}">{% endif %}
+    {% if site.canonical %}<link rel="canonical" href="{{ site.canonical }}"/>{% endif %}
 
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <link rel="icon" href="{{ site.favicon }}" type="image/png" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css" integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    
-    {% if site.font == "Sans Serif" %}
-    <link rel="stylesheet" href="./assets/css/font_sans_serif.css">
-    {% else %}
-    <link rel="stylesheet" href="./assets/css/font.css">
-    {% endif %}
-    {% if site.auto_dark_mode %}
-    <link rel="stylesheet" href="./assets/css/style.css">
-    <link rel="stylesheet" href="./assets/css/publications.css">
-    {% else %}
-    <link rel="stylesheet" href="./assets/css/style-no-dark-mode.css">
-    <link rel="stylesheet" href="./assets/css/publications-no-dark-mode.css">
-    {% endif %}
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
 
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/assets/css/gallery.css' | relative_url }}">
   </head>
   <body>
-    <div class="wrapper">
-      <header>
-        
-        {% if site.avatar %}
-        <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
-        {% endif %}
 
-        <h1>{{ site.title }}</h1>
-
-        {% if site.position %}
-        <position style="font-size:1.10rem;">{{ site.position }}</position>
-        <br>
-        {% endif %}
-        {% if site.affiliation %}
-        <a href="{{ site.affiliation_link }}" rel="noopener"><autocolor>{{ site.affiliation }}</autocolor></a>
-        <br>
-        {% endif %}
-        {% if site.email %}
-        <email>{{ site.email }}</email>
-        {% endif %}
-
-        <br>
-        <br>
-        <div class="social-icons">
-        {% if site.google_scholar %}
-        <a style="margin: 0 5px 0 0" href="{{ site.google_scholar }}">
-          <i class="ai ai-google-scholar" style="font-size:1.2rem"></i>
-        </a>  
-        {% endif %}
-
-        {% if site.cv_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.cv_link }}">
-          <i class="ai ai-cv" style="font-size:1.3rem;"></i>
-        </a>
-        {% endif %}
-
-        {% if site.github_link %}
-        <a style="margin: 0 5px 0 0" href="{{ site.github_link }}">
-          <i class="fab fa-github"></i>
-        </a>
-        {% endif %}
-
-        {% if site.linkedin %}
-        <a style="margin: 0 5px 0 0" href="{{ site.linkedin }}">
-          <i class="fab fa-linkedin"></i>
-        </a>
-        {% endif %}
-
-        {% if site.twitter %}
-        <a style="margin: 0 0 0 0" href="{{ site.twitter }}">
-          <i class="fab fa-x-twitter"></i>
-        </a>
-        {% endif %}
+    <header class="topbar">
+      <div class="topbar-inner">
+        <a class="brand" href="#top">{{ site.title }}</a>
+        <nav class="topnav" aria-label="Sections">
+          <a href="#about-me">About</a>
+          <a href="#research">Research</a>
+          <a href="#preprint">Preprints</a>
+          <a href="#publications">Publications</a>
+          <a href="#awards">Awards</a>
+          <a href="#services">Service</a>
+          <a href="#misc">Gallery</a>
+        </nav>
+        <div class="topbar-ext">
+          {% if site.google_scholar %}<a href="{{ site.google_scholar }}" rel="noopener" aria-label="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a>{% endif %}
+          {% if site.github_link %}<a href="{{ site.github_link }}" rel="noopener" aria-label="GitHub"><i class="fa-brands fa-github" aria-hidden="true"></i></a>{% endif %}
+          {% if site.cv_link %}<a href="{{ site.cv_link }}" rel="noopener" aria-label="CV"><i class="ai ai-cv" aria-hidden="true"></i></a>{% endif %}
         </div>
-        <br>
+      </div>
+    </header>
 
-      </header>
-      <section>
+    <main class="page" id="top">
+
+      <section class="hero">
+        <div class="hero-text">
+          <h1 class="name">{{ site.title }}</h1>
+          <p class="role">
+            {{ site.position }}{% if site.affiliation %} &middot; {% if site.affiliation_link %}<a href="{{ site.affiliation_link }}" rel="noopener">{{ site.affiliation }}</a>{% else %}{{ site.affiliation }}{% endif %}{% endif %}
+          </p>
+          {% if site.tagline %}<p class="hero-bio">{{ site.tagline }}</p>{% endif %}
+        </div>
+        <div class="hero-media">
+          {% if site.avatar %}<img class="avatar" src="{{ site.avatar }}" alt="{{ site.title }}" />{% endif %}
+          {% if site.email %}<p class="hero-email"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>{% endif %}
+        </div>
+      </section>
 
       {{ content }}
 
-      <br>
-
-      {% if site.enable_footnote %}
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-      {% endif %}
-
-      </section>
-      <footer>
-        
+      <footer class="site-footer">
+        {% if site.enable_footnote %}
+        <p>Built with <a href="https://jekyllrb.com/" target="_blank" rel="noopener">Jekyll</a>. &copy; {{ site.time | date: "%Y" }} {{ site.title }}.</p>
+        {% endif %}
       </footer>
-    </div>
-    <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
-    <!-- {% if site.google_analytics %}
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-      ga('create', '{{ site.google_analytics }}', 'auto');
-      ga('send', 'pageview');
-    </script>
-    {% endif %} -->
+
+    </main>
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZY2V628H3G"></script>
     <script>
@@ -128,6 +81,5 @@
       gtag('js', new Date());
       gtag('config', 'G-ZY2V628H3G');
     </script>
-
   </body>
 </html>

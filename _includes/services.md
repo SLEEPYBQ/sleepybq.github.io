@@ -1,6 +1,6 @@
-## Services
+<h2 id="services"><i class="ph ph-handshake"></i>Services</h2>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+<h4>Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://uist.acm.org/2026/"><autocolor>The ACM Symposium on User Interface Software and Technology (UIST) 2026</autocolor></a></li>
@@ -22,7 +22,7 @@
   <li><a href="https://2025.emnlp.org/"><autocolor>The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)</autocolor></a> - <strong>Special Recognition for Great Review</strong></li>
 </ul>
 
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
+<h4>Journal Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a href="https://dl.acm.org/journal/imwut"><autocolor>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</autocolor></a></li>
@@ -54,7 +54,7 @@
 
 
 
-<h4 style="margin:0 10px 0;">Community Service</h4>
+<h4>Community Service</h4>
 
 <ul style="margin:0 0 5px;">
   <li><a><autocolor>Student Volunteer of CHI 2025 - China Night</autocolor></a></li>
