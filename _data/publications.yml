@@ -1,16 +1,16 @@
 main:
 
   - title: "E-Tactile Flow: Exploring A Novel Path of Pain Relief through Interactive Electrotactile Stimulation"
-    authors: Shilong Liu, Yongjiu Lin, Hongnan Lin, Yihan Ma, Chao Zhou, Yan Hu, <strong>Baiqiao Zhang</strong>, Xiangxian Li, Teng Han*, Yulong Bian* (*Corresponding author)
-    conference_short: CHI
-    conference: The ACM CHI conference on Human Factors in Computing Systems 
+    authors: Shilong Liu, Yongjiu Lin, Hongnan Lin, Yihan Ma, Chao Zhou, Yan Hu, <strong>Baiqiao Zhang</strong>, Xiangxian Li, Teng Han*, Yulong Bian* (*Corresponding authors)
+    conference_short: UbiComp/IMWUT
+    conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.
     pdf: https://dl.acm.org/doi/full/10.1145/3772363.3798723
     bibtex: ./assets/bib/pain.txt
     image: ./assets/img/pain.png
-    notes: Extended Abstracts
+    notes: Presented as Extended Abstract in CHI 26
   
   - title: "Rethinking Personality Assessment from Human-Agent Dialogues: Fewer Rounds May Be Better Than More"
-    authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding author)
+    authors: <strong>Baiqiao Zhang</strong>, Zhifeng Liao, Xiangxian Li*, Chao Zhou, Juan Liu, Xiaojuan Ma*, Yulong Bian* (*Corresponding authors)
     conference_short: EMNLP
     conference: The Conference on Empirical Methods in Natural Language Processing, 2025.
     pdf: https://aclanthology.org/2025.findings-emnlp.287.pdf

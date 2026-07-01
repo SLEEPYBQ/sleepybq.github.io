@@ -32,6 +32,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 <h2 id="news"><i class="ph ph-newspaper"></i>News</h2>
 
+- **[Jul. 2026]** Our paper about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723) is accepted by UbiComp/IMWUT. Congratulations to Shilong and all the co-authors!
 - **[Apr. 2026]** I participate in CHI 2026 and present our works about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723)
 - **[Nov. 2025]** I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
 - **[Oct. 2025]** I participate in Ubicomp 2025 and give an oral presentation of our work about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774).
@@ -63,7 +64,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 <h2 id="awards"><i class="ph ph-trophy"></i>Awards</h2>
 
-- **[Aug. 2025]** ACM MM 2025 Outstanding Paper Award 
+- **[Aug. 2025]** ACM MM 2025 Outstanding Paper.
 - **[Feb. 2025]** Outstanding Graduate of Shandong University (**6%**).
 - **[Nov. 2024]** Finalist for Shandong University President's Award (*Research Track*) (**25/42254**) - ***Highest Honor of SDU***.
 - **[Nov. 2024]** Shandong University 120th Anniversary Scholarship (**120/42254**).
