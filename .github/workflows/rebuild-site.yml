@@ -45,6 +45,10 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add _site
+          # sitemap.xml's <lastmod> is derived from each file's on-disk
+          # mtime, which a fresh CI checkout always resets -- ignore it so
+          # a rebuild of otherwise-unchanged content is a true no-op.
+          git restore --staged _site/sitemap.xml
           if git diff --cached --quiet; then
             echo "_site/ already matches source -- nothing to commit."
           else
