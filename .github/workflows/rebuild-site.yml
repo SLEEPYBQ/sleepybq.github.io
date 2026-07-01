@@ -1,0 +1,52 @@
+name: Rebuild committed _site
+
+# Production (the VPS) serves the committed _site/ directory as-is and never
+# builds it. Source-only commits (e.g. edited directly on github.com) would
+# otherwise deploy "successfully" while the live HTML stays stale. This job
+# rebuilds _site/ after every push to main and commits the result back only
+# if it actually differs -- a no-op when _site/ was already rebuilt locally.
+
+on:
+  push:
+    branches: ["main"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-site
+  cancel-in-progress: false
+
+jobs:
+  rebuild:
+    # Guard against the bot's own commit re-triggering this workflow.
+    if: github.event.head_commit.author.name != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.4"
+
+      - name: Install dependencies
+        # Gemfile.lock has no x86_64-linux entry (locked from macOS/arm),
+        # so add this runner's platform before installing.
+        run: |
+          bundle lock --add-platform x86_64-linux
+          bundle install
+
+      - name: Build site
+        run: bundle exec jekyll build
+
+      - name: Commit rebuilt _site if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add _site
+          if git diff --cached --quiet; then
+            echo "_site/ already matches source -- nothing to commit."
+          else
+            git commit -m "Auto-rebuild _site [skip ci]"
+            git push origin HEAD:main
+          fi
