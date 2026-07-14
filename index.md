@@ -4,7 +4,7 @@ layout: homepage
 
 <h2 id="about-me"><i class="ph ph-user"></i>About Me</h2>
 
-I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). I also actively collaborate with Prof. [Shuai Ma](https://shuaima.cc/) on human–agent collaboration.
+I’m a first-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). I also actively collaborate with Prof. [Shuai Ma](https://shuaima.cc/) on Agent Confidence.
 
 Previously, I was a research assistant at AI&XR Lab, [Engineering Research Center of Digital Media Technology](https://ercdm.sdu.edu.cn/), Ministry of Education, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). I also worked as a research assistant at the Institute of HCI and Media Integration, Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). I received my bachelor’s degree in Computer Science and Technology in 2025 through a joint program between Shandong University (SDU) and the Australian National University (ANU).
 
