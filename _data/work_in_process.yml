@@ -16,11 +16,11 @@ main:
     # pdf: https://arxiv.org/pdf/2507.04005
     code: https://github.com/SLEEPYBQ/MemoSync
     # bibtex: ./assets/bib/gpa.txt
-    image: ./assets/img/memosync.png
+    image: ./assets/img/memosyncui.png
   
   - title: "Calibrated Step-Level Confidence for Selective Human Oversight of AI Agents"
     authors: Shuai Ma*, <strong>Baiqiao Zhang*</strong>, Q. Vera Liao, Zhuoran Lu, Xinru Wang, Jin Huang, Ming Yin, Qian Zhu, Feng Tian (*Equal Contribution)
-    conference_short: Work in Progresst
+    conference_short: Work in Progress
     conference: Work in Progress
     # pdf: https://arxiv.org/pdf/2507.04005
     # code: https://github.com/SLEEPYBQ/Multi-PR-GPA
