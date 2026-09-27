@@ -1,13 +1,31 @@
 main:
 
   - title: "Exploring a Gamified Personality Assessment Method through Interaction with LLM Agents Embodying Different Personalities"
-    authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Chao Zhou, Xinyu Gai, Juan Liu, Xue Yang, Nianlong Li, Shuai Ma, Xiaojuan Ma, Yong-Jin Liu*, Yulong Bian* (*Corresponding author)
+    authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Chao Zhou, Xinyu Gai, Juan Liu, Xue Yang, Nianlong Li, Shuai Ma, Xiaojuan Ma, Yong-Jin Liu*, Yulong Bian* (*Corresponding authors)
     conference_short: Preprint
     conference: Preprint
     pdf: https://arxiv.org/pdf/2507.04005
     code: https://github.com/SLEEPYBQ/Multi-PR-GPA
     bibtex: ./assets/bib/gpa.txt
     image: ./assets/img/preprint1.png
+
+  - title: "MemoSync: Co-Managing Developer-Agent Metamemory Across Contexts"
+    authors: <strong>Baiqiao Zhang</strong>, Junze Li, Chunyang Luo, Yuying Tang, Wenshuo Zhang, Shiyuan Piao, Dingdong Liu, Shuai Ma, Xiaojuan Ma* (*Corresponding author)
+    conference_short: Work in Progress
+    conference: Work in Progress
+    # pdf: https://arxiv.org/pdf/2507.04005
+    code: https://github.com/SLEEPYBQ/MemoSync
+    # bibtex: ./assets/bib/gpa.txt
+    image: ./assets/img/memosync.png
+  
+  - title: "Calibrated Step-Level Confidence for Selective Human Oversight of AI Agents"
+    authors: Shuai Ma*, <strong>Baiqiao Zhang*</strong>, Q. Vera Liao, Zhuoran Lu, Xinru Wang, Jin Huang, Ming Yin, Qian Zhu, Feng Tian (*Equal Contribution)
+    conference_short: Work in Progresst
+    conference: Work in Progress
+    # pdf: https://arxiv.org/pdf/2507.04005
+    # code: https://github.com/SLEEPYBQ/Multi-PR-GPA
+    # bibtex: ./assets/bib/gpa.txt
+    image: ./assets/img/StepCal.png
 
 
   
