@@ -10,7 +10,7 @@
     </div>
     {% endif %}
     <div class="pub-body">
-      <div class="pub-title">{% if link.pdf %}<a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
+      <div class="pub-title">{% if link.pdf %}<a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a>{% elsif link.code %}<a href="{{ link.code }}" target="_blank" rel="noopener">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="pub-authors">{{ link.authors }}</div>
       <div class="pub-venue"><em>{{ link.conference }}</em>{% if link.notes %} &middot; <span class="pub-note">{{ link.notes }}</span>{% endif %}</div>
       <div class="pub-links">

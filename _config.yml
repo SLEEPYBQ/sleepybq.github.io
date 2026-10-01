@@ -9,9 +9,11 @@ email: baiqiao.zhang@connect.ust.hk
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 # Search Engine Optimization (SEO)
-keywords: Baiqiao Zhang, Computer Science, Human-Computer Interaction, Mixed Reality, The Hong Kong University of Science and Technology, HKUST, PhD student, NLP
-description: Baiqiao Zhang is a Phd student at The Hong Kong University of Science and Technology (HKUST), focusing on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition.
-canonical: https://sleepybq.github.io/  # 替换成你的实际网站URL
+keywords: Baiqiao Zhang, HKUST, Human-Computer Interaction, Human-AI Alignment, AI Coding Agents, Developer-Agent Collaboration, MemoSync, PhD student
+description: Baiqiao Zhang is a PhD student in Computer Science and Engineering at HKUST, advised by Prof. Xiaojuan Ma, working on human-AI alignment between developers and AI coding agents.
+# url makes sitemap.xml / robots.txt emit absolute URLs (relative <loc> entries are invalid and ignored by Google).
+url: https://baiqiaozhang.cc
+canonical: https://baiqiaozhang.cc/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.

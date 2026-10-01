@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://baiqiaozhang.cc/sitemap.xml
