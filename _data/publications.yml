@@ -4,7 +4,7 @@ main:
     authors: Shilong Liu, Yongjiu Lin, Hongnan Lin, Yihan Ma, Chao Zhou, Yan Hu, <strong>Baiqiao Zhang</strong>, Xiangxian Li, Teng Han*, Yulong Bian* (*Corresponding authors)
     conference_short: UbiComp/IMWUT
     conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.
-    pdf: https://dl.acm.org/doi/full/10.1145/3772363.3798723
+    pdf: https://dl.acm.org/doi/10.1145/3831989
     bibtex: ./assets/bib/pain.txt
     image: ./assets/img/pain.png
     notes: Presented as Extended Abstract in CHI 26
