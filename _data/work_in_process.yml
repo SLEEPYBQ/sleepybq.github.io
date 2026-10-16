@@ -17,6 +17,15 @@ main:
     code: https://github.com/SLEEPYBQ/MemoSync
     # bibtex: ./assets/bib/gpa.txt
     image: ./assets/img/memosyncui.png
+
+  - title: "Words or Deeds? How LLMs Predict Users' Decisions in Human-Agent Dialogue"
+    authors: <strong>Baiqiao Zhang</strong>, Shuai Ma, Zhifeng Liao, Chao Zhou, Jianshu Wang, Yuhan Zhao, Chaoyue Zhang, Tongjun Si, Xiangxian Li, Yong-Jin Liu, Yulong Bian* (*Corresponding author)
+    conference_short: Work in Progress
+    conference: Work in Progress
+    # pdf: https://arxiv.org/pdf/2507.04005
+    # code: https://github.com/SLEEPYBQ/MemoSync
+    # bibtex: ./assets/bib/gpa.txt
+    image: ./assets/img/fig_teaser.pdf
   
   # - title: "Calibrated Step-Level Confidence for Selective Human Oversight of AI Agents"
   #   authors: Shuai Ma*, <strong>Baiqiao Zhang*</strong>, Q. Vera Liao, Zhuoran Lu, Xinru Wang, Jin Huang, Ming Yin, Qian Zhu, Feng Tian (*Equal Contribution)
