@@ -26,19 +26,26 @@
   transform: translateY(-2px);
 }
 
+/* The frame is at least 9:5. Figures wider than that (e.g. 3:1 teasers) get
+   white space above and below instead of a thin strip, which also leaves room
+   for the venue tag; taller figures simply grow the frame. */
 .pub-media {
   position: relative;
   flex: 0 0 280px;
   width: 280px;
+  aspect-ratio: 9 / 5;
+  display: flex;
+  align-items: center;
+  background: #fff;
+  border: 1px solid var(--line);
+  border-radius: 8px;
 }
 
 .pub-media img {
   display: block;
-  width: 280px;
+  width: 100%;
   height: auto;
-  border-radius: 8px;
-  border: 1px solid var(--line);
-  background: var(--paper);
+  border-radius: 7px;
 }
 
 .pub-venue-tag {
