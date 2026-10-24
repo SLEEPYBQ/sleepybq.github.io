@@ -3,7 +3,7 @@
 <h4>Teaching Assistant (HKUST)</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>COMP 2211: Introduction to Artificial Intelligence, 2026 Spring</autocolor></li>
+  <li><autocolor>COMP 2211: Introduction to Artificial Intelligence, 2026 Spring, 2026 Fall</autocolor></li>
 </ul>
 
 

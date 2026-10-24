@@ -2,8 +2,8 @@ main:
 
   - title: "E-Tactile Flow: Exploring A Novel Path of Pain Relief through Interactive Electrotactile Stimulation"
     authors: Shilong Liu, Yongjiu Lin, Hongnan Lin, Yihan Ma, Chao Zhou, Yan Hu, <strong>Baiqiao Zhang</strong>, Xiangxian Li, Teng Han*, Yulong Bian* (*Corresponding authors)
-    conference_short: UbiComp/IMWUT
-    conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.
+    conference_short: IMWUT
+    conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2026.
     pdf: https://dl.acm.org/doi/10.1145/3831989
     bibtex: ./assets/bib/pain.txt
     image: ./assets/img/pain.png
@@ -60,8 +60,8 @@ main:
 
   - title: "Are We in The Zone? Exploring The Features and Method of Detecting Simultaneous Flow Experiences Based on EEG Signals"
     authors: <strong>Baiqiao Zhang</strong>, Xiangxian Li, Yunfan Zhou, Juan Liu, Weiying Liu, Chao Zhou*, Yulong Bian* (*Corresponding authors)
-    conference_short: Ubicomp/IMWUT
-    conference: ACM international joint conference on Pervasive and Ubiquitous Computing/ Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
+    conference_short: IMWUT
+    conference: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 2024.
     pdf: https://dl.acm.org/doi/10.1145/3699774
     bibtex: ./assets/bib/flow.txt
     code: https://github.com/SLEEPYBQ/Simultaneious-Flow-Dataset

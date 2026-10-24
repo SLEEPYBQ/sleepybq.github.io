@@ -4,7 +4,7 @@ layout: homepage
 
 <h2 id="about-me"><i class="ph ph-user"></i>About Me</h2>
 
-I’m a second-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). I also actively collaborate with Prof. [Shuai Ma](https://shuaima.cc/) on Agent Confidence. 
+I’m a second-year Ph.D. student in Computer Science and Engineering at The Hong Kong University of Science and Technology (HKUST), supervised by Prof. [Xiaojuan Ma](https://www.cse.ust.hk/~mxj/). I also actively collaborate with Prof. [Shuai Ma](https://shuaima.cc/) on Hybrid Intelligence. 
 
 Previously, I was a research assistant at AI&XR Lab, [Engineering Research Center of Digital Media Technology](https://ercdm.sdu.edu.cn/), Ministry of Education, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). I also worked as a research assistant at the Institute of HCI and Media Integration, Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm). I received my bachelor’s degree in Computer Science and Technology in 2025 through a joint program between Shandong University (SDU) and the Australian National University (ANU).
 
@@ -34,7 +34,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 <h2 id="news"><i class="ph ph-newspaper"></i>News</h2>
 
-- **[Jul. 2026]** Our paper about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723) is accepted by UbiComp/IMWUT. Congratulations to Shilong and all the co-authors!
+- **[Jul. 2026]** Our paper about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723) is accepted by IMWUT. Congratulations to Shilong and all the co-authors!
 - **[Apr. 2026]** I participate in CHI 2026 and present our works about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723)
 - **[Nov. 2025]** I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
 - **[Oct. 2025]** I participate in Ubicomp 2025 and give an oral presentation of our work about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774).
@@ -50,7 +50,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 - **[Nov. 2024]** I was selected as a Finalist for Shandong University President's Award (*Research Track*) (25/42254) - This is Shandong University's highest honor.
 - **[Nov. 2024]** I get the 120th Anniversary Scholarship of Shandong University (120 students university-wide).
 - **[Oct. 2024]** I participate in ISMAR 2024, and make an oral presentation about our work.
-- **[Sep. 2024]** Our paper about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774) is accepted by UbiComp/IMWUT.
+- **[Sep. 2024]** Our paper about [Detecting Simultaneous Flow](https://dl.acm.org/doi/10.1145/3699774) is accepted by IMWUT.
 - **[Aug. 2024]** We get CHCI 2024 Best Paper Honorable Mention Award.
 - **[Aug. 2024]** I participate in HHME 2024, and make an oral presentation about our work.
 - **[Jul. 2024]** Our paper about [Proteus Effect](https://ieeexplore.ieee.org/abstract/document/10765491) in VR environment is accepted by ISMAR 2024.
