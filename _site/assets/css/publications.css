@@ -134,6 +134,8 @@
 
 .pub-github > i { font-size: 13px; }
 
+.pub-github-stars[hidden] { display: none; }
+
 .pub-github-stars {
   display: inline-flex;
   align-items: center;

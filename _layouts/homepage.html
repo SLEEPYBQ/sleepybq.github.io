@@ -29,6 +29,8 @@
 
     <link rel="icon" href="{{ site.favicon }}" type="image/png" />
 
+    <script async src="{{ '/assets/js/github-stars.js' | relative_url }}?v={{ 'assets/js/github-stars.js' | file_hash }}" data-github-repos="{{ site.data.work_in_process.main | map: 'github_stars' | compact | uniq | jsonify | escape }}"></script>
+
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500&display=swap">
@@ -91,7 +93,6 @@
     </main>
 
     <!-- Google tag (gtag.js) -->
-    <script src="{{ '/assets/js/github-stars.js' | relative_url }}?v={{ 'assets/js/github-stars.js' | file_hash }}" defer></script>
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZY2V628H3G"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
