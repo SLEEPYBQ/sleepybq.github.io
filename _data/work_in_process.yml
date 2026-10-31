@@ -15,6 +15,8 @@ main:
     conference: Work in Progress
     # pdf: https://arxiv.org/pdf/2507.04005
     code: https://github.com/SLEEPYBQ/MemoSync
+    github_stars: SLEEPYBQ/MemoSync
+    page: https://baiqiaozhang.cc/memosync/
     # bibtex: ./assets/bib/gpa.txt
     image: ./assets/img/memosyncui.png
 
@@ -22,9 +24,9 @@ main:
     authors: <strong>Baiqiao Zhang</strong>, Shuai Ma, Zhifeng Liao, Chao Zhou, Jianshu Wang, Yuhan Zhao, Chaoyue Zhang, Tongjun Si, Yuying Tang, Xiangxian Li, Yong-Jin Liu, Yulong Bian* (*Corresponding author)
     conference_short: Preprint
     conference: Preprint
-    pdf: ./assets/files/words_deeds.pdf
+    pdf: https://arxiv.org/pdf/2610.36813
     # code: https://github.com/SLEEPYBQ/MemoSync
-    # bibtex: ./assets/bib/gpa.txt
+    bibtex: ./assets/bib/words_deeds.txt
     image: ./assets/img/figure1_words_deeds.png
   
   # - title: "Calibrated Step-Level Confidence for Selective Human Oversight of AI Agents"
@@ -49,4 +51,3 @@ main:
   #   bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
   #   notes: Oral Presentation
   #   image: ./assets/img/teaser_example.png
-  

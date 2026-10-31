@@ -1,0 +1,9 @@
+@misc{zhang2026wordsdeedsllmspredict,
+  title={Words or Deeds? How LLMs Predict Users' Decisions in Human-Agent Dialogue},
+  author={Baiqiao Zhang and Shuai Ma and Zhifeng Liao and Chao Zhou and Jianshu Wang and Yuhan Zhao and Chaoyue Zhang and Tongjun Si and Yuying Tang and Xiangxian Li and Yong-Jin Liu and Yulong Bian},
+  year={2026},
+  eprint={2610.36813},
+  archivePrefix={arXiv},
+  primaryClass={cs.CL},
+  url={https://arxiv.org/abs/2610.36813},
+}

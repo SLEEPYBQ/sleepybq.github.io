@@ -3,6 +3,10 @@
 <h4>Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://www2027.thewebconf.org/"><autocolor>The ACM Web Conference (WWW) 2027</autocolor></a></li>
+</ul>
+
+<ul style="margin:0 0 5px;">
   <li><a href="https://chi2027.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2027</autocolor></a></li>
 </ul>
 

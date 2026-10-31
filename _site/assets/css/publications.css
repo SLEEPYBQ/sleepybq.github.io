@@ -101,6 +101,7 @@
 
 .pub-links {
   display: flex;
+  align-items: center;
   flex-wrap: wrap;
   gap: 8px;
   margin-top: 11px;
@@ -122,6 +123,30 @@
   border-color: var(--accent);
   background: var(--accent-tint);
   text-decoration: none;
+}
+
+.pub-links .pub-github {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  font-variant-numeric: tabular-nums;
+}
+
+.pub-github > i { font-size: 13px; }
+
+.pub-github-stars {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-left: 2px;
+  padding-left: 8px;
+  border-left: 1px solid var(--line-strong);
+}
+
+.pub-github-stars svg {
+  width: 13px;
+  height: 13px;
+  fill: #c3933d;
 }
 
 @media (max-width: 640px) {
