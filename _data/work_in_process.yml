@@ -16,7 +16,7 @@ main:
     # pdf: https://arxiv.org/pdf/2507.04005
     code: https://github.com/SLEEPYBQ/MemoSync
     github_stars: SLEEPYBQ/MemoSync
-    page: https://baiqiaozhang.cc/memosync/
+    page: https://memosync.cc/
     # bibtex: ./assets/bib/gpa.txt
     image: ./assets/img/memosyncui.png
 
