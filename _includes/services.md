@@ -7,11 +7,11 @@
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://chi2027.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2027</autocolor></a></li>
+  <li><a href="https://chi2027.acm.org/"><autocolor>The ACM CHI conference on Human Factors in Computing Systems 2027</autocolor></a> - <strong>Special Recognition for Outstanding Review*3</strong></li>
 </ul>
 
 <ul style="margin:0 0 5px;">
-  <li><a href="https://iui.acm.org/2027/"><autocolor>The ACM Conference on Intelligent User Interfaces (IUI) 2027</autocolor></a> - <strong>Special Recognition for Outstanding Review</strong></li>
+  <li><a href="https://iui.acm.org/2027/"><autocolor>The ACM Conference on Intelligent User Interfaces (IUI) 2027</autocolor></a> - <strong>Special Recognition for Outstanding Review*2</strong></li>
 </ul>
 
 <ul style="margin:0 0 5px;">

@@ -34,6 +34,7 @@ I'll join HKUST as a PhD student in 2025 Fall, My advisor is Assoc. Prof. [Xiaoj
 
 <h2 id="news"><i class="ph ph-newspaper"></i>News</h2>
 
+- **[Nov. 2026]** [MemoSync](https://github.com/SLEEPYBQ/MemoSync) is Open-Sourced now!
 - **[Jul. 2026]** Our paper about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723) is accepted by IMWUT. Congratulations to Shilong and all the co-authors!
 - **[Apr. 2026]** I participate in CHI 2026 and present our works about [Pain Relief through Interactive Electrotactile Stimulation](https://dl.acm.org/doi/full/10.1145/3772363.3798723)
 - **[Nov. 2025]** I participate in EMNLP 2025 and present our works about [LLM-based Personality Assessment](https://aclanthology.org/2025.findings-emnlp.287/) and [Prompt Routing for VLMs Tuning](https://aclanthology.org/2025.findings-emnlp.799/).
