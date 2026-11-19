@@ -13,6 +13,8 @@ Previously, I was a research assistant at AI&XR Lab, [Engineering Research Cente
 
 My research focuses on **Human-AI Alignment**. I model the states that shape how people and AI work together, including memory, confidence, attention, and personality, from language, video, interaction, and physiological signals. With these models I build mixed-initiative systems in which people and AI co-evolve. My earlier work modeled human states such as flow and intent.
 
+{% include open_source.html %}
+
 <!-- My research mainly focuses on Human-computer Interaction, Human-centered AI, NLP and Pattern recognition. To be specific, I am researching human-centered computing, aiming to better understand humans through the analysis of human-generated data. -->
 
 <!-- I am currently an undergraduate at AI&XR Lab, Shandong University (SDU), supervised by postdoctoral fellow [Xiangxian Li](https://yibuxulong.github.io/), Assoc. Prof. [Juan Liu](https://faculty.sdu.edu.cn/liujuan5) and Assoc. Prof. [Yulong Bian](https://faculty.sdu.edu.cn/bianyulong1/zh_CN/index.htm). And I am also a research assistant at Tsinghua University (THU), supervised by Prof. [Yongjin Liu](https://cg.cs.tsinghua.edu.cn/people/~Yongjin/Yongjin.htm).

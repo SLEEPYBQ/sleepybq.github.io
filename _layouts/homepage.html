@@ -29,7 +29,10 @@
 
     <link rel="icon" href="{{ site.favicon }}" type="image/png" />
 
-    <script async src="{{ '/assets/js/github-stars.js' | relative_url }}?v={{ 'assets/js/github-stars.js' | file_hash }}" data-github-repos="{{ site.data.work_in_process.main | map: 'github_stars' | compact | uniq | jsonify | escape }}"></script>
+    {% assign paper_repos = site.data.work_in_process.main | map: 'github_stars' | compact -%}
+    {% assign open_source_repos = site.data.open_source | map: 'repo' -%}
+    {% assign github_repos = paper_repos | concat: open_source_repos | uniq -%}
+    <script async src="{{ '/assets/js/github-stars.js' | relative_url }}?v={{ 'assets/js/github-stars.js' | file_hash }}" data-github-repos="{{ github_repos | jsonify | escape }}"></script>
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

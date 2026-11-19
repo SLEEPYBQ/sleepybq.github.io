@@ -185,6 +185,86 @@ body {
 .hero-email a { color: var(--accent); }
 .hero-email a:hover { color: var(--accent-deep); }
 
+/* --- open-source contributions ----------------------------------------- */
+
+.open-source { margin-top: 1.4rem; }
+.open-source p { margin-bottom: 12px; }
+
+.oss-projects {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.oss-badge {
+  display: inline-flex;
+  align-items: stretch;
+  overflow: hidden;
+  border: 1px solid transparent;
+  border-radius: 6px;
+  background: var(--project-color);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 1;
+  white-space: nowrap;
+  box-shadow: 0 1px 2px rgba(44, 48, 54, 0.08);
+  transition: box-shadow 0.15s ease;
+}
+
+.oss-badge--memosync { --project-color: #b6532f; }
+.oss-badge--openhands { --project-color: #36587c; }
+.oss-badge--claude-cage { --project-color: #735c8c; }
+.oss-badge--overleaf { --project-color: #39754b; }
+
+.oss-badge:hover {
+  color: #fff;
+  text-decoration: none;
+  box-shadow: 0 2px 7px rgba(44, 48, 54, 0.18);
+}
+
+.oss-badge:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 3px;
+}
+
+.oss-project-name {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px 6px 6px;
+}
+
+.oss-project-icon {
+  flex: 0 0 22px;
+  width: 22px;
+  height: 22px;
+  padding: 2px;
+  border-radius: 4px;
+  background: #fff;
+  object-fit: contain;
+}
+
+.oss-badge .pub-github-stars {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin: 0;
+  padding: 0 6px;
+  border-left: 1px solid rgba(255, 255, 255, 0.2);
+  background: rgba(0, 0, 0, 0.1);
+  font: inherit;
+  font-variant-numeric: tabular-nums;
+}
+
+.oss-badge .pub-github-stars[hidden] { display: none; }
+
+.oss-badge .pub-github-stars svg {
+  width: 14px;
+  height: 14px;
+  fill: #ffda73;
+}
+
 /* --- section headings (markdown h2): heading + trailing rule ------------ */
 
 main h2 {

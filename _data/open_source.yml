@@ -1,0 +1,19 @@
+- name: MemoSync
+  repo: SLEEPYBQ/MemoSync
+  id: memosync
+  icon: /assets/img/open-source/memosync.svg
+
+- name: OpenHands SDK
+  repo: OpenHands/software-agent-sdk
+  id: openhands
+  icon: /assets/img/open-source/openhands.svg
+
+- name: Claude-Cage
+  repo: Lee-xeo/Claude-Cage
+  id: claude-cage
+  icon: /assets/img/open-source/claude-cage.png
+
+- name: Overleaf-CEP
+  repo: yu-i-i/overleaf-cep
+  id: overleaf
+  icon: /assets/img/open-source/overleaf.svg
