@@ -17,7 +17,7 @@ main:
     code: https://github.com/SLEEPYBQ/MemoSync
     github_stars: SLEEPYBQ/MemoSync
     page: https://memosync.cc/
-    # bibtex: ./assets/bib/gpa.txt
+    bibtex: ./assets/bib/memosync.txt
     image: ./assets/img/memosyncui.png
 
   - title: "Words or Deeds? How LLMs Predict Users' Decisions in Human-Agent Dialogue"

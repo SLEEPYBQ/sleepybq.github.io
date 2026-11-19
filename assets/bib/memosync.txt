@@ -1,0 +1,9 @@
+@misc{zhang2026memosynccomanagingdeveloperagentmetamemory,
+  title={MemoSync: Co-Managing Developer-Agent Metamemory Across Contexts},
+  author={Baiqiao Zhang and Junze Li and Chunyang Luo and Yuying Tang and Wenshuo Zhang and Shiyuan Piao and Dingdong Liu and Shuai Ma and Xiaojuan Ma},
+  year={2026},
+  eprint={2611.24165},
+  archivePrefix={arXiv},
+  primaryClass={cs.HC},
+  url={https://arxiv.org/abs/2611.24165},
+}
