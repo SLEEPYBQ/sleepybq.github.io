@@ -11,9 +11,9 @@ main:
 
   - title: "MemoSync: Co-Managing Developer-Agent Metamemory Across Contexts"
     authors: <strong>Baiqiao Zhang</strong>, Junze Li, Chunyang Luo, Yuying Tang, Wenshuo Zhang, Shiyuan Piao, Dingdong Liu, Shuai Ma, Xiaojuan Ma* (*Corresponding author)
-    conference_short: Work in Progress
-    conference: Work in Progress
-    # pdf: https://arxiv.org/pdf/2507.04005
+    conference_short: Preprint
+    conference: Preprint
+    pdf: https://arxiv.org/pdf/2611.24165
     code: https://github.com/SLEEPYBQ/MemoSync
     github_stars: SLEEPYBQ/MemoSync
     page: https://memosync.cc/
